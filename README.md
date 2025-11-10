@@ -8,7 +8,7 @@
 - **Formato:** Trabalho em grupo (4 pessoas)
 - **Período Total:** 18/11/2025 a 04/02/2026
 - **Modalidade:** Desenvolvimento de sistema web com versão de aplicativo ou PWA
-- **Pontuação Total:** 8 pontos (Etapa 1: 4 pontos | Etapa 2: 4 pontos)
+- **Pontuação Total:** 8 pontos (Etapa 1: 3 pontos | Etapa 2: 5 pontos)
 - **Apresentações:**
   - Etapa 1: 02/12/2025 - Apresentação do projeto (20 min)
   - Etapa 2: 02 e 04/02/2026 - Apresentação do sistema desenvolvido (20-25 min)
