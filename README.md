@@ -498,7 +498,7 @@ Antes de entregar, verifique:
 - [ ] Justificativas convincentes
 - [ ] Documento bem formatado
 - [ ] Imagens/diagramas (se houver) com boa qualidade
-
+ 
 ---
 
 ## 🎓 Considerações Finais
